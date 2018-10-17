@@ -1,4 +1,5 @@
 Hello Sample file in this repo
+Text to DEV branch in Intellij
 Adding somemore text
 Adding Dev branch Text
 Adding text to Master after branch
